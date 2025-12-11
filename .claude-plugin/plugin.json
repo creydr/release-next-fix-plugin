@@ -1,0 +1,14 @@
+{
+  "name": "release-next-fix",
+  "description": "Automate discovery and fixing of Jenkins update-to-head failures for openshift-knative projects",
+  "version": "0.0.1",
+  "author": {
+    "name": "creydr"
+  },
+  "keywords":[
+    "release-next",
+    "jenkins",
+    "openshift-knative",
+    "ci-cd"
+  ]
+}
